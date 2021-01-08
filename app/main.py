@@ -79,5 +79,5 @@ def generic_get_function():
 '''
     return json_resp, 200, {'Content-Type': 'application/json; charset=utf-8'}
 
-if __name__ == '__main__':
-    app.run(host='localhost',port='4000', debug=True)
+# if __name__ == '__main__':
+#     app.run(host='localhost',port='4000', debug=True)
