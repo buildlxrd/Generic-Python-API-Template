@@ -1,3 +1,1 @@
-###########################
-Generic Python API Template
-###########################
+# Generic Python API Template
